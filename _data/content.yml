@@ -1,0 +1,41 @@
+home:
+  title: "jd2012's Code Snippets"
+  tagline: |
+    Hey! I'm <a href='https://github.com/jd2012'>@jd2012</a> and this is a collection of snippets I've written/acquired. The bulk of this site is a fork of <a href='https://devhints.io'>Devhints.io</a>, a awesome site made by <a href='https://ricostacruz.com'>@rstacruz</a>
+
+top_nav:
+  title: Snippets
+  edit: Correct Me
+  edit_on_github: Edit this page on GitHub
+
+sheet:
+  suffix: snippet
+
+social_list:
+  default_description: "Ridiculous collection of web development snippets"
+  description: "The ultimate snippet for TITLE."
+  facebook_share: Share on Facebook
+  twitter_share: Share on Twitter
+
+related_posts_callout:
+  description: Over SIZE curated snippets, by a developer with bad memory for that same developer.
+  link: Browse my brain
+
+related_posts_group:
+  top: Top snippets
+  other: Other snippets
+  category: Other CATEGORY snippets
+
+search_form:
+  default_placeholder: Search SIZE+ cheatsheets
+  home_placeholder: Search...
+  prefix: snippets
+
+comments_area:
+  suffix: for this snippet.
+  link: "Write yours!"
+
+not_found:
+  title: Not found
+  description: Sorry, we don't have a cheatsheet for this yet. Try searching!
+  home: Back to home
