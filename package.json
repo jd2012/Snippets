@@ -37,7 +37,7 @@
   "license": "MIT",
   "main": "index.js",
   "private": true,
-  "repository": "https://github.com/rstacruz/cheatsheets.git",
+  "repository": "https://github.com/jd2012/Snippets.git",
   "scripts": {
     "build": "run-s -s 'parcel:*:build' jekyll:build",
     "dev": "run-p -sl jekyll:watch 'parcel:*:watch'",
